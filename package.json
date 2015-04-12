@@ -1,0 +1,29 @@
+{
+  "name": "CurryingFunctionNodeJS",
+  "description": "An Example of Currying Functions in NodeJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "curry": "~1.2.0",
+    "lodash": "~3.6.0",
+    "q": "~1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psenger/CurryingFunctionNodeJS.git"
+  },
+  "keywords": [
+    "Currying",
+    "NodeJS"
+  ],
+  "author": "Philip A Senger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psenger/CurryingFunctionNodeJS/issues"
+  },
+  "homepage": "https://github.com/psenger/CurryingFunctionNodeJS"
+}

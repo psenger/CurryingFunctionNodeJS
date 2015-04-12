@@ -1,0 +1,99 @@
+{
+  "patient": {
+    "fname": "Michael",
+    "lname": "Hansen",
+    "ssn": "801-95-2677"
+  },
+  "medical": [
+    {
+      "procedure": "Body measurement",
+      "diagcode": "7515",
+      "drug": "Lithium Carbonate"
+    },
+    {
+      "procedure": "Local excision of lesion or tissue of bone, other bones",
+      "diagcode": "28952",
+      "drug": "Stool Softener"
+    },
+    {
+      "procedure": "Biopsy of penis",
+      "diagcode": "5181",
+      "drug": "BETTER THAN NATURE ESSENCE"
+    },
+    {
+      "procedure": "Endoscopic destruction of other lesion or tissue of large intestine",
+      "diagcode": "7840",
+      "drug": "Solarcaine"
+    },
+    {
+      "procedure": "Other local excision or destruction of lesion or tissue of anus",
+      "diagcode": "99831",
+      "drug": "Escitalopram"
+    },
+    {
+      "procedure": "Prostatic massage",
+      "diagcode": "63580",
+      "drug": "equaline all day pain relief"
+    },
+    {
+      "procedure": "Open reduction of malar and zygomatic fracture",
+      "diagcode": "63530",
+      "drug": "Citalopram"
+    },
+    {
+      "procedure": "Intravenous infusion of clofarabine",
+      "diagcode": "62133",
+      "drug": "pravastatin sodium"
+    },
+    {
+      "procedure": "Arteriography using contrast material, unspecified site",
+      "diagcode": "9279",
+      "drug": "Tamiflu"
+    },
+    {
+      "procedure": "Other operations on nasal sinuses",
+      "diagcode": "E9272",
+      "drug": "LETTERS Ocean Blue Hand Sanitizer"
+    },
+    {
+      "procedure": "Open pull-through resection of rectum",
+      "diagcode": "32382",
+      "drug": "CD DiorSkin Forever Compact Flawless Perfection Fusion Wear Makeup SPF 25 - 020"
+    },
+    {
+      "procedure": "Stretching of fascia",
+      "diagcode": "52420",
+      "drug": "Dextrose"
+    },
+    {
+      "procedure": "Laparoscopic reimplantation of ovary",
+      "diagcode": "30081",
+      "drug": "SALSALATE"
+    },
+    {
+      "procedure": "Cyclocryotherapy",
+      "diagcode": "33910",
+      "drug": "Isopropyl Alcohol"
+    },
+    {
+      "procedure": "Microscopic examination of specimen from ear, nose, throat, and larynx, culture",
+      "diagcode": "E8902",
+      "drug": "Galantamine hydrobromide"
+    },
+    {
+      "procedure": "Other active musculoskeletal exercise",
+      "diagcode": "52561",
+      "drug": "Eve Lom Brilliant Cover Concealer Broad Spectrum SPF 15 Sunscreen"
+    },
+    {
+      "procedure": "Other local excision or destruction of vulva and perineum",
+      "diagcode": "04041",
+      "drug": "Male Tonicity"
+    },
+    {
+      "procedure": "Other urethroscopy",
+      "diagcode": "71225",
+      "drug": "Montelukast Sodium"
+    }
+  ]
+}

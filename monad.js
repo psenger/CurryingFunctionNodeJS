@@ -1,9 +1,10 @@
 /**
  * Created by psenger on 7/19/16.
- */
-
-/**
- * Monad is a design pattern used to describe computations as a series of steps.
+ *
+ * NOTE: Uses ES6 Javascript.
+ *
+ *
+ * Monad is a design pattern used to describe computations as a series of steps. AKA Wraps and chains behavior
  *
  * This is called monadic bind and illustrates sequential flow
  */
